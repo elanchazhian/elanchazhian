@@ -11,10 +11,9 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **elanchazhian21@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
